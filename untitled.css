@@ -1,0 +1,195 @@
+body{
+	background-image: url(images/bg.jpg);
+	font-family: Avro;
+
+}
+/* -------------------------------------------
+-------------------HEADER---------------------
+--------------------------------------------*/
+.eponymous{
+	color:white;
+	font-size: 50px;
+	margin-top: -15px;
+	margin-left: 200px;
+	float: left;
+}
+.menu{
+	margin-left: 500px;
+	margin-top: 100px;
+}
+.menu > li{
+	display: inline-block;
+	margin-left: 50px;
+	font-size: 21px;
+	color: white;
+
+}
+.home{
+	background-color: rgb(0,171,208);
+	padding: 5px 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.firstimage{
+	padding: 25px;
+	background-color: white;
+	margin-left: 10%;
+	width: 77%;
+	height: 230px;
+	margin-top: 50px;
+}
+#fimage{
+	height: 230px;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/*-----------------------------------------*/
+
+/* -------------------------------------------
+-------------------CENTER---------------------
+--------------------------------------------*/
+.centerleft{
+	width:13%;
+	padding: 10px;
+	margin-top: 50px;
+	margin-left: 11%;
+	
+	float: left;
+
+}
+.centerwords{
+	color: white;
+	font-size:23px;
+	margin-right: 30px;
+	margin-left: 0px;
+	margin-bottom: 10px;
+font-weight: 700px;
+line-height: 30px;
+
+}
+.centerwordstwo{
+	color: grey;
+	font-size: 18px;
+	margin: 10px;
+	margin-left:0px;
+	line-height: 25px;
+	margin-bottom: 20px;
+}
+.cites{
+	margin-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed grey;
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+.cites:hover{
+	text-decoration: none;
+}
+
+
+
+.center{
+	background-color: white;
+    margin-left: 28%;
+    margin-right: 140px;
+    margin-top: 30px;
+    padding: 10px 30px;
+    font-family: arial;
+}
+
+.cit{
+	color: black;
+	font-size: 16px;
+	margin-top: 15px;
+	padding-bottom: 15px;
+
+}
+
+.black{
+	color: black;
+	border: none;
+	text-decoration: underline;
+}
+.black:hover{
+	text-decoration: none;
+}
+h1{
+	
+	font-size: 25px;
+}
+.secondimage{
+	float: left;
+	margin-right: 20px;
+}
+p{
+	color:grey;
+	font-size: 16px;
+	line-height: 25px;
+}
+h2{
+	margin-top: 50px;
+	font-size: 20px;
+}
+
+/*-----------------------------------------*/
+
+/* -------------------------------------------
+-------------------END---------------------
+--------------------------------------------*/
+
+.end{
+	background-color:rgb(0,171,208);
+	padding: 25px;
+	
+	margin-left: 10%;
+	width: 77%;
+	height: 230px;
+	margin-top: 50px;
+}
+.c{
+	float: left;
+}
+.f{
+	border-bottom:1px dashed white;
+}
+
+.cite{
+	border: none;
+	margin-bottom: 100px;
+}
+.ha2{
+	color:white;
+	margin-left: 30px;
+}
+.ha2 + p {
+	color:white;
+	margin-top: 25px;
+	font-weight: lighter;
+	font-size: 18px;
+	margin-left: 30px;
+}
+.lasth{
+	margin-top: -40px;
+}
+.lastp{
+	margin-top: -70px;
+	margin-left: 200px;
+	padding-right: 25px;
+}
+#end{
+	margin-top: 60px;
+	margin-left: 40%;
+	color: grey;
+	font-size: 15px;
+	margin-bottom:100px;
+}
+#e{
+	font-size: 15px;
+	color:grey;
+	border: none;
+}
